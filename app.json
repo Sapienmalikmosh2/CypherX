@@ -27,12 +27,12 @@
   },
   "OWNER_NUMBER": {
     "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-    "value": "",
+    "value": "256700273834",
     "required": true
   },
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
-    "value": "",
+    "value": "Malikmosh",
     "required": true
   },
   "HEROKU_API_KEY": {
