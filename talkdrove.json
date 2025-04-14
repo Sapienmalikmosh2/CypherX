@@ -18,12 +18,12 @@
     },
     "OWNER_NUMBER": {
       "description": "The display name of the bot as it will appear in interactions.",
-      "value": "",
+      "value": "256700273834",
       "required": true
     },
     "OWNER_NAME": {
       "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-      "value": "",
+      "value": "26700273834",
       "required": true
     },
     "TIMEZONE": {
