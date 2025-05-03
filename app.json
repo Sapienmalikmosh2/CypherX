@@ -18,7 +18,7 @@
   "SESSION_ID": {
     "description": "The session string used to authenticate the bot with WhatsApp. Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "",
-    "required": false
+    "required": 'true'
   },
   "BOT_NAME": {
     "description": "The display name of the bot as it will appear in interactions.",
@@ -33,7 +33,7 @@
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
     "value": "Malikmosh",
-    "required": true
+    "required": 'true'
   },
   "HEROKU_API_KEY": {
     "description": "Heroku API key used for accessing and managing your Heroku app programmatically.",
