@@ -33,7 +33,7 @@
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
     "value": "Malikmosh",
-    "required": 'true'
+    "required": 'false'
   },
   "HEROKU_API_KEY": {
     "description": "Heroku API key used for accessing and managing your Heroku app programmatically.",
